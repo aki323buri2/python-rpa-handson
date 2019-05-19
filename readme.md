@@ -1,4 +1,4 @@
-# RPA test (using [automagica](https://automagica.readthedocs.io/))
+# RPA handson (using [automagica](https://automagica.readthedocs.io/))
 
 
 [automagicaことはじめ](https://qiita.com/eriho/items/9f9d887f380b64beaee7)
